@@ -8,4 +8,4 @@ To use, run:
 docker run -p 5000:5000 dradrian/ibportal
 ```
 
-and navigate to [localhost:5000](localhost:5000).
+and navigate to [localhost:5000](http://localhost:5000).
