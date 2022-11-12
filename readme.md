@@ -1,6 +1,6 @@
 # ibportal
 
-A Docker container for the [Interactive Brokers Client Portal API](https://interactivebrokers.github.io/cpwebapi/).
+A lightweight Docker container for the [Interactive Brokers Client Portal API](https://interactivebrokers.github.io/cpwebapi/).
 
 To use, run:
 
