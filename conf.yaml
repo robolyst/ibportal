@@ -2,7 +2,7 @@
     proxyRemoteSsl: true
     proxyRemoteHost: "https://api.ibkr.com"
     listenPort: 5000
-    listenSsl: false
+    listenSsl: true
     svcEnvironment: "v1"
     sslCert: "vertx.jks"
     sslPwd: "mywebapi"
@@ -26,7 +26,5 @@
         - 131.216.*
         - 127.0.0.1
         - 172.*
-        - 158.*
-        - 0.0.0.0
       deny:
         - 212.90.324.10
