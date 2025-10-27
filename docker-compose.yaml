@@ -1,0 +1,11 @@
+services:
+
+  ibgw:
+    build: .
+    container_name: ibgw
+    ports:
+      - "5001:5000"
+
+
+# https://localhost:5001/
+# https://localhost:5001/v1/api/sso/validate
